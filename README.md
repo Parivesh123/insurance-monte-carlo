@@ -3,13 +3,13 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)[![GitHub license](https://img.shields.io/github/license/sultan99/react-on-lambda.svg)](https://github.com/sultan99/react-on-lambda/blob/master/LICENSE)
 
 ### Car Insurance Profit/Loss, a Monte Carlo Simulation
-Data science Project.
+A data science project.
 
 By Rory GS
 
 ### About
 
-This python 3 project generates the expected profit/loss for a car insurance company over a given period of time. It allows you to model using several variables. Their names, explanations and initial values are detailed below. Both a .py script and an identical .ipynb python notebook are included.
+This python 3 project generates the expected profit/loss for a car insurance company over a given period of time. It allows you to model using several variables. Their names, explanations and initial values are detailed below. Both a .py script and an identical .ipynb python notebook are included. The claim amounts and probabilities are drawn from recent insurance statistics in both the US and Aus markets. The outputs in this model are in AUD but can easily be converted to USD.
 
 ### Parameters
 
